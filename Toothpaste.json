@@ -1,0 +1,59 @@
+{
+	"name": "Toothpaste",
+	"description": "For someone special.",
+	"version": "0.2",
+	"authors": [
+	   {
+		  "name": "flower!",
+		  "id": "836452332387565589"
+	   }
+	],
+	"theme_color_map": {
+		"KEYBOARD": ["#b6cdd5", "#b6cdd5"],
+		"BACKGROUND_PRIMARY": ["#b6cdd5", "#b6cdd5"],
+		"BACKGROUND_SECONDARY": ["#c5d4d9", "#c5d4d9"],
+		"BACKGROUND_SECONDARY_ALT": ["#9cb3ba", "#9cb3ba"],
+		"BACKGROUND_TERTIARY": ["#9cb3ba", "#9cb3ba"],
+		"BACKGROUND_ACCENT": ["#9cb3ba", "#9cb3ba"],
+		"BACKGROUND_FLOATING": ["#b6cdd5", "#b6cdd5"],
+		"BACKGROUND_NESTED_FLOATING": ["#c5d4d9", "#c5d4d9"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#b6cdd5", "#b6cdd5"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#b6cdd5", "#b6cdd5"],
+		"BACKGROUND_MODIFIER_HOVER": ["#b9dfed", "#b9dfed"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#c5d4d9", "#c5d4d9"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#9cb3ba", "#9cb3ba"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#c5d4d9", "#c5d4d9"],
+		"CHANNELTEXTAREA_BACKGROUND": ["#b9dfed", "#b9dfed"],
+		"CHANNELS_DEFAULT": ["#657781", "#657781"],
+		"HEADER_PRIMARY": ["#657781", "#657781"],
+		"HEADER_SECONDARY": ["#5391a6", "#5391a6"],
+		"INTERACTIVE_ACTIVE": ["#306c62", "#306c62"],
+		"INTERACTIVE_MUTED": ["#5992a7", "#5992a7"],
+		"INTERACTIVE_NORMAL": ["#306c62", "#306c62"],
+		"TEXT_NORMAL": ["#62707b", "#62707b"],
+		"TEXT_MUTED": ["#62707b", "#62707b"],
+		"TEXT_LINK": ["#3a7b85", "#3a7b85"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#5992a7",
+		"PRIMARY_DARK_100": "#62707b",
+		"PRIMARY_DARK_200": "#FFFFFF",
+		"PRIMARY_DARK_300": "#306c62",
+		"PRIMARY_DARK_360": "#306c62",	
+		"PRIMARY_DARK_400": "#306c62",
+		"PRIMARY_DARK_500": "#306c62",
+		"PRIMARY_DARK_600": "#b6cdd5",
+		"PRIMARY_DARK_630": "#9cb3ba",
+		"PRIMARY_DARK_700": "#9cb3ba",
+		"PRIMARY_DARK_800": "#c5d4d9",
+		"PRIMARY_DARK_900": "#FFFFFF",
+		"BRAND_NEW": "#306c62",
+		"BRAND_NEW_360": "#306c62",
+		"STATUS_YELLOW": "#306c62",
+		"PARTNER_500": "#306c62",
+		"PARTNER": "#306c62"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#b6cdd5"
+	}
+}
